@@ -220,6 +220,34 @@ This repository contains:
 
 The project demonstrates how raw e-commerce transactional data can be transformed into an interactive Power BI reporting solution that helps management understand sales, customers, products, orders, payments, and customer retention.
 
+
+## Project Documentation & Dashboard Screenshots
+
+### Project Documentation
+
+The complete project presentation is available here:
+
+📄 [View Project Presentation](Documentation/Project%20Presentation.pdf)
+
+### Dashboard Screenshots
+
+#### Sales Performance
+![Sales Performance](Dashboard%20Screenshots/Sales%20Performance.png)
+
+#### Customer Analysis
+![Customer Analysis](Dashboard%20Screenshots/Customer%20Analysis.png)
+
+#### Product & Category Analysis
+![Product & Category Analysis](Dashboard%20Screenshots/Product%20%26%20Category%20Analysis.png)
+
+#### Orders & Payment Analysis
+![Orders & Payment Analysis](Dashboard%20Screenshots/Orders%20%26%20Payment%20Analysis.png)
+
+#### Customer Value & Retention
+![Customer Value & Retention](Dashboard%20Screenshots/Customer%20Value%20%26%20Retention.png)
+
+#### Executive Summary
+![Executive Summary](Dashboard%20Screenshots/Executive%20Summary.png)
 ---
 
 ## Author
